@@ -56,6 +56,4 @@ This project is built with React, TypeScript, Tailwind CSS, and Chart.js.
 
 ## API Documentation
 
-The application uses GitHub’s public API to fetch data about repositories and issues. The following endpoints are used:
-
-- **Search Repositories**:
+The application uses GitHub’s public API to fetch data about repositories and issues.
